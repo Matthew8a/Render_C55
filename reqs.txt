@@ -2,4 +2,4 @@ pandas
 scipy
 streamlit
 plotly
-plotly-express
+plotly.express
